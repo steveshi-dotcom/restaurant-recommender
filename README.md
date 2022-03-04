@@ -16,3 +16,4 @@ javac --module-path="javafx-sdk-11.0.2/lib" --add-modules=javafx.controls recomm
 java --module-path="javafx-sdk-11.0.2/lib" --add-modules=javafx.controls recommender
 to start up the GUI
 # restaurant-recommender
+# restaurant-recommender
