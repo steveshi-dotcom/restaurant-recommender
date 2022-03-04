@@ -1,14 +1,9 @@
 /**
  * @author Steve Shi
  * @version 11/26/2021
- * A simple restaurant recommender for restaurants located in Atlanta.
- The distance from the location and average time it takes to walk, ask for a uber
- will all be based on the location of Woodruff North (914-898 Curran St NW, Atlanta, GA 30318)
- */
-/**
- * To run the application
-javac --module-path="javafx-sdk-11.0.2/lib" --add-modules=javafx.controls recommender.java
-java --module-path="javafx-sdk-11.0.2/lib" --add-modules=javafx.controls recommender
+ * To run the application copy and paste the following into the terminal
+ *  javac --module-path="javafx-sdk-11.0.2/lib" --add-modules=javafx.controls recommender.java
+ *  java --module-path="javafx-sdk-11.0.2/lib" --add-modules=javafx.controls recommender
  */
 
 import java.util.ArrayList;
