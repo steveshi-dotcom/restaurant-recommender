@@ -15,5 +15,3 @@ Now that the package is inside the current directory, run:
 javac --module-path="javafx-sdk-11.0.2/lib" --add-modules=javafx.controls recommender.java
 java --module-path="javafx-sdk-11.0.2/lib" --add-modules=javafx.controls recommender
 to start up the GUI
-# restaurant-recommender
-# restaurant-recommender
