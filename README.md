@@ -1,4 +1,4 @@
-# restaurant-recommender Introduction
+# restaurant-recommender
  A simple restaurant recommender for 75 best restaurants located in Atlanta from the list 
  https://www.atlantamagazine.com/50bestrestaurants/
  
